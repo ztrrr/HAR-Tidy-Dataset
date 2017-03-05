@@ -38,7 +38,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-Subject is the numeric label of the person whose movements were recorded performing the Activity 
+Subject is the numeric label of the person whose movements were recorded performing the Activity. 
 Activity is the character string label of the activity the subject performed from which the data was gathered. 
 
 Transformations:
